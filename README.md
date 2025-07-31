@@ -242,7 +242,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 ## 🙏 Teşekkürler
 
 - **Veri Kaynağı**: Apple resmi fiyat verileri
-- **İlham**: Zaman serisi analizi topluluğu
+- **İlham**: DFA Bilişim
 - **Araçlar**: Streamlit, Plotly, TensorFlow ekipleri
 
 ---
