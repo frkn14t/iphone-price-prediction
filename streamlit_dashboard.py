@@ -61,8 +61,8 @@ def load_data():
     # Dosya yollarını dene
     file_paths = [
         'profesyonel_telefon_verileri.csv',
-        'C:/Users/FURKAN/excel_temizlik/profesyonel_telefon_verileri.csv',
-        os.path.join(current_dir, 'profesyonel_telefon_verileri.csv'),
+        'C:/Users/FURKAN/excel_temizlik/profesyonel_telefon_verileri2.csv',
+        os.path.join(current_dir, 'profesyonel_telefon_verileri2.csv'),
         'gelismis_telefon_verileri.csv'  # Yedek dosya
     ]
     
